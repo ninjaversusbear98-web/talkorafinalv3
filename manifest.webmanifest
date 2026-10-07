@@ -1,0 +1,20 @@
+{
+  "id": "./",
+  "name": "TalkOra Secure Messaging",
+  "short_name": "TalkOra",
+  "description": "Private messaging and calls with TalkOra.",
+  "start_url": "./login.php",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#101a20",
+  "theme_color": "#2563eb",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "assets/img/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
